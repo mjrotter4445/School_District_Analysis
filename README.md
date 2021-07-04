@@ -1,5 +1,5 @@
 # School_District_Analysis
-School Analysis
+*School Analysis*
 
 ## Overview of the Project
 The project is to utilize rough raw data from two csv files of School and Student data and produce meaningul measures for decision making.  
