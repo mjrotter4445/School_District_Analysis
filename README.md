@@ -106,4 +106,4 @@ The score deletions at Thomas High School were also impactful to the District st
 The changes include: 
    - the passing math % dropped from 75% to 74%
    - the reading passing % dropped from 86% to 85%
-   - the Overall passing % dropped from 65% to 64% 
+   - the overall passing % dropped from 65% to 64% 
