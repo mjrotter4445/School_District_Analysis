@@ -19,8 +19,7 @@ The analysis will be used by the school board and superintendent in making decis
 ### Background 
 The data is gathered in two different csv files 1) School Data 2) Student Data.  This is raw data that has to be transformed to develop meaningful charts and reports.  
 The steps performed is called "data wrangling" and includes loading, reading, inspecting, & cleaning the data.    
-After the data is clean we merged datasets and performed calculations to create tables.  Formatting was applied with sorting and grouping to display a   
-comprehensive story.
+After the data is clean we merged datasets and performed calculations to create tables.  Formatting was applied with sorting and grouping to display a comprehensive story.
 
 ### Resources
 - Data Source: 
